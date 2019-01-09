@@ -1,0 +1,16 @@
+PODS:
+  - FoldingCell (4.0.2)
+
+DEPENDENCIES:
+  - FoldingCell
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FoldingCell
+
+SPEC CHECKSUMS:
+  FoldingCell: 352f0211a53f957b885a1b37d5ffa875da90bca5
+
+PODFILE CHECKSUM: 407cf39dbfd6e198f96eba099285ab86e38a1b64
+
+COCOAPODS: 1.5.3
